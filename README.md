@@ -1,2 +1,5 @@
 # Digit_Recognition
-Kaggle Digit Recognizer Competition
+---
+## Description: Kaggle Digit Recognizer Competition
+
+## Result accuracy: 0.99371, top 21%
